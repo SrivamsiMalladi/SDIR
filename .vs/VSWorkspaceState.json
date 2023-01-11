@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\ctrl",
+    "\\src\\ctrl\\kinematics",
+    "\\src\\ctrl\\kinematics\\direct",
+    "\\src\\ctrl\\kinematics\\inverse"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}

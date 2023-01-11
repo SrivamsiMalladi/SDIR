@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sdri_ctrl2019"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/repos/sdri_ctrl2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sdri_ctrl2019">
+				<Option output="D:/repos/sdri_ctrl2019/cmake-build-debug/sdri_ctrl2019.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/repos/sdri_ctrl2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DNON_MATLAB_PARSING"/>
+					<Add option="-DMAX_EXT_API_CONNECTIONS=255"/>
+					<Add option="-DDO_NOT_USE_SHARED_MEMORY"/>
+					<Add directory="D:/repos/sdri_ctrl2019/postype"/>
+					<Add directory="D:/repos/sdri_ctrl2019/src/ctrl/postypes"/>
+					<Add directory="D:/repos/sdri_ctrl2019/json"/>
+					<Add directory="D:/repos/sdri_ctrl2019/include/json"/>
+					<Add directory="D:/repos/sdri_ctrl2019/vrep"/>
+					<Add directory="D:/repos/sdri_ctrl2019/include/vrep"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.21.27702\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.21.27702\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 sdri_ctrl2019"/>
+					<CompileFile command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sdri_ctrl2019/fast">
+				<Option output="D:/repos/sdri_ctrl2019/cmake-build-debug/sdri_ctrl2019.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/repos/sdri_ctrl2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DNON_MATLAB_PARSING"/>
+					<Add option="-DMAX_EXT_API_CONNECTIONS=255"/>
+					<Add option="-DDO_NOT_USE_SHARED_MEMORY"/>
+					<Add directory="D:/repos/sdri_ctrl2019/postype"/>
+					<Add directory="D:/repos/sdri_ctrl2019/src/ctrl/postypes"/>
+					<Add directory="D:/repos/sdri_ctrl2019/json"/>
+					<Add directory="D:/repos/sdri_ctrl2019/include/json"/>
+					<Add directory="D:/repos/sdri_ctrl2019/vrep"/>
+					<Add directory="D:/repos/sdri_ctrl2019/include/vrep"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.21.27702\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.21.27702\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 sdri_ctrl2019/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/repos/sdri_ctrl2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/repos/sdri_ctrl2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\repos\sdri_ctrl2019\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/repos/sdri_ctrl2019/include/json/json-forwards.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/include/json/json.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/com/json_handler.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/com/json_handler.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/com/jsoncpp.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/com/opmode_enum.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/com/remoteApi/extApi.c">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/com/remoteApi/extApi.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/com/remoteApi/extApiInternal.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/com/remoteApi/extApiPlatform.c">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/com/remoteApi/extApiPlatform.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/kinematics/direct/fw_kinematics.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/kinematics/direct/fw_kinematics.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/kinematics/inverse/inverse_kinematics.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/kinematics/inverse/inverse_kinematics.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/pathplanner/lin/lin.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/pathplanner/lin/lin.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/pathplanner/ptp/ptp.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/pathplanner/ptp/ptp.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/postypes/Configuration.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/postypes/Configuration.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/postypes/SixDPos.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/postypes/SixDPos.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/postypes/TMatrix.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/postypes/TMatrix.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/postypes/Trajectory.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/postypes/Trajectory.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/sdir_ctrl.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/ctrl/sdir_ctrl.h">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/src/main.cpp">
+			<Option target="sdri_ctrl2019"/>
+		</Unit>
+		<Unit filename="D:/repos/sdri_ctrl2019/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

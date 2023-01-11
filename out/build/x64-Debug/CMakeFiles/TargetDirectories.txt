@@ -1,0 +1,3 @@
+C:/Users/malla/OneDrive/Documents/OVGU/SDIR/Code/cse_admin-sdri_ctrl2019-809d8b853011/cse_admin-sdri_ctrl2019-809d8b853011/out/build/x64-Debug/CMakeFiles/sdri_ctrl2019.dir
+C:/Users/malla/OneDrive/Documents/OVGU/SDIR/Code/cse_admin-sdri_ctrl2019-809d8b853011/cse_admin-sdri_ctrl2019-809d8b853011/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/malla/OneDrive/Documents/OVGU/SDIR/Code/cse_admin-sdri_ctrl2019-809d8b853011/cse_admin-sdri_ctrl2019-809d8b853011/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

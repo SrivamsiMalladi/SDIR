@@ -1,0 +1,150 @@
+﻿  extApi.c
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(13): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(13): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(13): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(14): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(14): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(14): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(15): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(15): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(15): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(18): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(18): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(18): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(19): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(19): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(19): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(20): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(20): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(20): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(23): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(23): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(23): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(24): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(24): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(24): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(25): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(25): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(25): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(28): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(28): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(28): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(29): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(29): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(29): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(30): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(30): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(30): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(33): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(33): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(33): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(34): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(34): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(34): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(35): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(35): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(35): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(38): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(38): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(38): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(39): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(39): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(39): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(41): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(41): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(41): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(42): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(42): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(42): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(44): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(44): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(44): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(45): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(45): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(45): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(46): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(46): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(46): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(47): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(47): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(47): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(48): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(48): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(48): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(49): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(49): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(49): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(50): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(50): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(50): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(51): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(51): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(51): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(52): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(52): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(52): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(54): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(54): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiinternal.h(54): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(39): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(79): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(90): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(139): error C2065: "SIMX_HEADER_SIZE": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(179): error C2065: "_communicationThread": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(179): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "simxVoid (__cdecl *)(simxVoid *)" und "int" unterschiedlich
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(179): warning C4024: "extApi_launchThread": unterschiedliche Typen für formalen und übergebenen Parameter 1
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(201): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(219): warning C4013: "_exec_int" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(219): error C2065: "simx_cmd_kill_connection": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(219): error C2065: "simx_opmode_oneshot": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(245): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(252): error C2065: "simx_cmd_kill_connection": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(252): error C2065: "simx_opmode_oneshot": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(260): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(305): error C2065: "simx_return_timeout_flag": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(315): error C2065: "simx_cmdheaderoffset_mem_size": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapi.c(315): fatal error C1003: Mehr als 100 Fehler gefunden; Kompilierung wird abgebrochen.
+  extApiPlatform.c
+  Adding library: Winmm.lib
+  Adding library: Ws2_32.lib
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(44): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(44): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(44): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(49): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(49): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(49): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(50): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(50): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(50): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(51): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(51): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(51): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(52): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(52): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(52): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(54): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(54): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(54): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(55): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(55): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(55): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(56): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(56): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(56): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(57): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(57): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(57): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(59): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(59): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(59): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(60): error C2065: "MAX_EXT_API_CONNECTIONS": nichtdeklarierter Bezeichner
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(60): error C2057: Konstanter Ausdruck erwartet
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(60): error C2466: Zuordnung eines Arrays der konstanten Größe 0 nicht möglich.
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(203): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: Siehe Deklaration von "fopen"
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(638): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(645): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(646): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(648): warning C4267: "-=": Konvertierung von "size_t" nach "simxInt", Datenverlust möglich
+c:\users\maxku\desktop\arbeit\sdri_ctrl2019\src\ctrl\com\remoteapi\extapiplatform.c(649): warning C4267: "+=": Konvertierung von "size_t" nach "simxInt", Datenverlust möglich
+  Code wird generiert...
